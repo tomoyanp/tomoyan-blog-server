@@ -1,0 +1,43 @@
+{
+    "contents": [
+        [
+            {
+                "content": "テキスト",
+                "style": "undefined",
+                "type": "text"
+            },
+            {
+                "content": "青",
+                "style": "color:blue",
+                "type": "text"
+            },
+            {
+                "content": "赤",
+                "style": "color:red",
+                "type": "text"
+            },
+            {
+                "content": "テキスト",
+                "style": "undefined",
+                "type": "text"
+            }
+        ],
+        [
+            {
+                "content": "大きい文字",
+                "style": "font-size: 30px",
+                "type": "text"
+            },
+            {
+                "content": "テキスト",
+                "style": "undefined",
+                "type": "text"
+            }
+        ]
+    ],
+    "tags": [
+        "タグ1",
+        "タグ2"
+    ],
+    "title": "タイトル"
+}
